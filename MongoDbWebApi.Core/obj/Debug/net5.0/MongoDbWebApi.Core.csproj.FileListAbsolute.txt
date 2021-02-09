@@ -1,0 +1,12 @@
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.csprojAssemblyReference.cache
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.AssemblyInfoInputs.cache
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.AssemblyInfo.cs
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.csproj.CoreCompileInputs.cache
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\bin\Debug\net5.0\MongoDbWebApi.Core.deps.json
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\bin\Debug\net5.0\MongoDbWebApi.Core.dll
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\bin\Debug\net5.0\ref\MongoDbWebApi.Core.dll
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\bin\Debug\net5.0\MongoDbWebApi.Core.pdb
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.dll
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\ref\MongoDbWebApi.Core.dll
+C:\workspace\MongoDbWebApi\MongoDbWebApi.Core\obj\Debug\net5.0\MongoDbWebApi.Core.pdb
